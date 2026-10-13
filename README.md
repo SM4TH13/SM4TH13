@@ -10,7 +10,8 @@
 
 **Programming Languages**  
 - Python  
-- C  
+- C
+- Java 
 
 **Web Development**  
 - HTML, CSS, JavaScript  
